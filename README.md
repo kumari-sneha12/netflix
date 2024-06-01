@@ -2,9 +2,9 @@
 <h1>Netflix Landpage Project</h1>
 Welcome to the Netflix Landpage project repository! This project aims to recreate the Netflix landing page using HTML and CSS, providing a simplified version of the popular streaming platform's homepage.
 
-![flower com - Google Chrome 01-Jun-24 12_50_19 PM](https://github.com/kumari-sneha12/netflix/assets/144013280/7eabd163-d504-4619-8439-6931413a0840)
-![flower com - Google Chrome 01-Jun-24 12_50_14 PM](https://github.com/kumari-sneha12/netflix/assets/144013280/ec90d30d-e8f8-49c0-912e-d31ae412043c)
-![flower com - Google Chrome 01-Jun-24 12_49_27 PM](https://github.com/kumari-sneha12/netflix/assets/144013280/58ac02a9-f884-4cff-a8ed-14dc59b96948)
+
+![flower com - Google Chrome 01-Jun-24 12_55_11 PM](https://github.com/kumari-sneha12/netflix/assets/144013280/7ee49166-a98e-4367-9531-512c6ece1589)
+
 <h2>Features</h2>
 <li>Responsive Design: The landing page is designed to be responsive, ensuring compatibility with various devices and screen sizes.
 <li>Netflix Originals Showcase: Highlighting popular Netflix original series and movies.
